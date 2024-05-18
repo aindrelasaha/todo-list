@@ -39,7 +39,7 @@ showTask();
 function addMarquees() {
     const container = document.querySelector('.container');
     const texts = [
-        "Focus on you, until the Focus is on you!",
+        // "Focus on you, until the Focus is on you!",
        
         
     ];
