@@ -1,26 +1,36 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>TO-DO-LIST by Aindrela</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="container">
-            <div class="todo-app">
-                <h2>To-Do List <img src="images/4697260.png"></h2>
-                <div class="row">
-                    <input type="text" id="input-box" placeholder="Add Your Text">
-                    <button onclick="addTask()">Add</button>
-                    
-                </div>
-                <ul id="list-container">
-                    <!-- <li class="checked" >Task 1</li>
-                    <li> Task 2</li>
-                    <li> Task 3</li> -->
-                </ul>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TO-DO-LIST by Aindrela</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+       
+        
+        <marquee class="background-marquee" behavior="scroll" direction="left" style="top: 10px;">
+            Focus on you, until the Focus is on you!
+        </marquee>
+       
+
+        <div class="todo-app">
+            <h2>To-Do List <img src="images/4697260.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add Your Text">
+                <button onclick="addTask()">Add</button>
             </div>
+            <ul id="list-container">
+            
+            </ul>
         </div>
-        <script src="script.js"></script>
-    </body>
+        
+     
+        <marquee class="background-marquee" behavior="scroll" direction="right" style="bottom: 50px;">
+            There is no Tomorrow, but only Today!
+        </marquee>
+       
+    </div>
+    <script src="script.js"></script>
+</body>
 </html>
