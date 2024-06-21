@@ -32,5 +32,5 @@ A to-do list helps you stay organized. It saves you time by deciding what to do 
  - Collaborate with your study buddy on our online platform! Our group study sessions now include a shared to-do list. Stay organized, track tasks, and boost productivity while studying together. 📚✨ - -
  - effortlessly monitor the time you spend on each task. Whether it’s studying, work, or personal projects<br>
 
-### Thank You
+### Thank You 😊
 
