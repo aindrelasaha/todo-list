@@ -1,4 +1,4 @@
-## TO - DO List☑️
+## TO - DO List☑️📝
 
 A to-do list helps you stay organized. It saves you time by deciding what to do before it's too late. You can add and remove tasks as you wish and add additional tasks as you go. The To-do list app offers various ways to organize tasks. Additionally, you can create subtasks within larger tasks to break them down into manageable steps. This allows for efficient task management and ensures that nothing falls through the cracks. By keeping your todo list up-to-date and visible, you'll be able to prioritize your tasks, stay on top of your workload, and ultimately, boost your productivity. Trust us, once you start using our todo list, you'll wonder how you ever lived without it 💁‍♀️.
 <br>
